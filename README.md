@@ -6,7 +6,7 @@
   🌱 Estou atuando em projetos pessoais e da faculdade, aberto para oportunidades.
 </p>
 <p align="left">
-  📚 Estudando: <strong>EDA em Python</strong>
+  📚 Atualmente estudando: <strong>EDA em Python</strong>
 </p>
 <p align="left">
   ⏩ Linguagens: <strong>HTML, CSS, JavaScript, Java e Python.</strong>
