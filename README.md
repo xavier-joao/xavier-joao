@@ -1,7 +1,7 @@
 <img src="https://github.com/joao-xavi/joao-xavi/blob/2e8b9a39bd4484f473d6962e96b39e7f16559946/computador.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Olá! Meu nome é João Xavier, formado em Marketing Digital e graduando em Sistemas de Informação. Estou em jornada para encontrar minha área, mas por enquanto tive experiência com <strong>Desenvolvimento Front-End</strong> e <strong>Manipulação de dados em Python</strong>. <br>
+  Olá! Meu nome é João Xavier, sou formado em Marketing Digital e graduando em Sistemas de Informação. Estou em jornada para encontrar minha área, mas por enquanto tive experiência com <strong>Desenvolvimento Front-End</strong> e <strong>Manipulação de dados em Python</strong>. <br>
  
   🌱 Estou atuando em projetos pessoais e da faculdade, aberto para oportunidades.
 </p>
