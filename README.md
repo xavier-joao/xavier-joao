@@ -21,13 +21,14 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="joaopx82@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=joaopx82@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/joão-xavier-9787741a2/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-xavier-9787741a2/" /></a>
 
-  <a href="#" alt="WhatsApp">
+  <a href="https://wa.me/+5545998238998" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/+5545998238998"/></a>
 
 </p>  
+
