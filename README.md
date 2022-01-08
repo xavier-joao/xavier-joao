@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=6B6B6B&logo=gmail&logoColor=25ECEE&link=joaopx82@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/joão-xavier-9787741a2/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=6B6B6B&link=https://www.linkedin.com/in/joão-xavier-9787741a2/" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=6B6B6B&labelColor=6B6B6B&link=https://www.linkedin.com/in/joão-xavier-9787741a2/" /></a>
 
   <a href="https://wa.me/+5545998238998" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=6B6B6B&logo=whatsapp&logoColor=25ECEE&link=https://wa.me/+5545998238998"/></a>
