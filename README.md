@@ -20,7 +20,7 @@
   ✉️ Minhas redes sociais: <br>
 </p>
 
-<p align="left">
+<p align="middle">
   <a href="joaopx82@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-6B6B6B?style=flat-square&labelColor=6B6B6B&logo=gmail&logoColor=25ECEE&link=joaopx82@gmail.com" /></a>
 
