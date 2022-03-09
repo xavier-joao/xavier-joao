@@ -6,10 +6,10 @@
   🌱 Estou atuando em projetos pessoais e da faculdade, aberto para oportunidades.
 </p>
 <p align="left">
-  📚 Atualmente estudando: <strong>C# .NET e APIs Robustas</strong>
+  📚 Atualmente estudando: <strong>C# .NET</strong>
 </p>
 <p align="left">
-  ⏩ Linguagens: <strong>HTML, CSS, JavaScript, Java e Python.</strong>
+  ⏩ Linguagens: <strong>HTML, CSS, JavaScript, Java, C# .NET e Python.</strong>
 </p>
 
 <p align="left">
