@@ -9,7 +9,7 @@
 
 </p>
 <p align="left">
-  📚 Atualmente estudando: <strong>Web APIs e Web APPs em C# .NET em um projeto realizado pela Montreal Informática.</strong>
+  📚 Atualmente estudando: <strong>Web APIs e Web APPs em C# .NET em um projeto realizado pela Montreal Informática.</strong> <br>
   🌐 Actually studying: <strong>Web APIs and Web Applications in C# .NET in a mentoring project realized by Montreal Informática.</strong
 </p>
 <p align="left">
