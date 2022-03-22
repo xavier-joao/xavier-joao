@@ -3,7 +3,6 @@
 <p align="left"> 
   🌎 Hello! My name is João Xavier, I have a degree in Digital Marketing and studying Information Systems through PUCPR.  <br>
   
-  🌱  I'm working in college and personal projects, open to opportunities. <br>
 
 </p>
 <p align="left">
