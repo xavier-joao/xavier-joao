@@ -5,7 +5,7 @@
   🌐 Hello! My name is João Xavier, I have a degree in Digital Marketing and I'm graduating in Information Systems.  <br>
  
   🌱 Estou atuando em projetos pessoais e da faculdade, aberto para oportunidades.
-  🌐 Programming in college and personal projects, open to opportunities. 
+  🌐 I'm working in college and personal projects, open to opportunities. 
 
 </p>
 <p align="left">
