@@ -13,12 +13,12 @@
   🌐 Actually studying: <strong>Web APIs and Web Applications in C# .NET in a mentoring project realized by Montreal Informática.</strong
 </p>
 <p align="left">
-  ⏩ Linguagens: <strong>HTML, CSS, JavaScript, Java, C# .NET e Python.</strong>
+  ⏩ Linguagens: <strong>HTML, CSS, JavaScript, Java, C# .NET e Python.</strong> <br>
   🌐 Experience in coding: <strong> HTML, CSS, JavaScript, Java, C# .NET and Python </strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Visual Studio, Figma, Trello, Git e GitHub.</strong>
+  💼 Ferramentas: <strong>VSCode, Visual Studio, Figma, Trello, Git e GitHub.</strong> <br>
   🌐 Tools I use: <strong>VSCode, Visual Studio, Figma, Trello, Git and Github.</strong>
 </p>
 
