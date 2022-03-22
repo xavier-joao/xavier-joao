@@ -4,6 +4,8 @@
   🌎 Olá! Meu nome é João Xavier, sou formado em Marketing Digital e graduando em Sistemas de Informação pela PUCPR.  <br>
   
   🌐 Hello! My name is João Xavier, I have a degree in Digital Marketing and studying Information Systems through PUCPR.  <br>
+  
+  
  
   🌱 Estou atuando em projetos pessoais e da faculdade, aberto para oportunidades. <br>
   
@@ -14,17 +16,23 @@
   📚 Atualmente estudando: <strong>Web APIs e Web APPs em C# .NET em um projeto realizado pela Montreal Informática.</strong> <br>
   
   🌐 Actually studying: <strong>Web APIs and Web Applications in C# .NET in a mentoring project realized by Montreal Informática.</strong
+  
+  
 </p>
 <p align="left">
   ⏩ Linguagens: <strong>HTML, CSS, JavaScript, Java, C# .NET e Python.</strong> <br>
   
   🌐 Experience in coding: <strong> HTML, CSS, JavaScript, Java, C# .NET and Python </strong>
+  
+  
 </p>
 
 <p align="left">
   💼 Ferramentas: <strong>VSCode, Visual Studio, Figma, Trello, Git e GitHub.</strong> <br>
   
   🌐 Tools I use: <strong>VSCode, Visual Studio, Figma, Trello, Git and Github.</strong>
+  
+  
 </p>
 
 <p align="left">
