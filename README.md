@@ -1,10 +1,10 @@
 <img src="https://github.com/joao-xavi/joao-xavi/blob/2e8b9a39bd4484f473d6962e96b39e7f16559946/computador.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  🌎 Olá! Meu nome é João Xavier, sou formado em Marketing Digital e graduando em Sistemas de Informação.  <br>
-  🌐 Hello! My name is João Xavier, I have a degree in Digital Marketing and I'm graduating in Information Systems.  <br>
+  🌎 Olá! Meu nome é João Xavier, sou formado em Marketing Digital e graduando em Sistemas de Informação pela PUCPR.  <br>
+  🌐 Hello! My name is João Xavier, I have a degree in Digital Marketing and studying Information Systems through PUCPR.  <br>
  
-  🌱 Estou atuando em projetos pessoais e da faculdade, aberto para oportunidades.
+  🌱 Estou atuando em projetos pessoais e da faculdade, aberto para oportunidades. <br>
   🌐 I'm working in college and personal projects, open to opportunities. 
 
 </p>
