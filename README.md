@@ -6,7 +6,7 @@
 
 </p>
 <p align="left">
-  📚 Currently learning: <strong>Web APIs and Web Applications in C# .NET in a mentoring project realized by Montreal Informática.</strong> <br>
+  📚 Currently learning: <strong>Web APIs and Web Applications in C# .NET through a mentoring project realized by Montreal Informática.</strong> <br>
   
   
 </p>
