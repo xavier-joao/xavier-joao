@@ -29,13 +29,13 @@
 
 <p align="left">
   <a href="joaopx82@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-6B6B6B?style=flat-square&labelColor=6B6B6B&logo=gmail&logoColor=25ECEE&link=joaopx82@gmail.com" /></a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=joaopx82@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/joão-xavier-9787741a2/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-6B6B6B?style=flat-square&logo=Linkedin&logoColor=25ECEE&labelColor=6B6B6B&link=https://www.linkedin.com/in/joão-xavier-9787741a2/" /></a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-xavier-9787741a2/" /></a>
 
   <a href="https://wa.me/+5545998238998" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-6B6B6B?style=flat-square&labelColor=6B6B6B&logo=whatsapp&logoColor=25ECEE&link=https://wa.me/+5545998238998"/></a>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/+5545998238998"/></a>
 
 </p>  
 
