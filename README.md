@@ -19,7 +19,7 @@
 
 <p align="left">
   
-  💼 Some of the tools I use: <strong>VSCode, Visual Studio, Figma, Trello, Git and Github.</strong>
+  💼 Some of the tools I use: <strong>VSCode, Visual Studio, Figma, Trello, Git, Notion and Github.</strong>
   
 </p>
 
