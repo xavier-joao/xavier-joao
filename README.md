@@ -1,12 +1,17 @@
 <img src="https://github.com/joao-xavi/joao-xavi/blob/2e8b9a39bd4484f473d6962e96b39e7f16559946/computador.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  🌎 Hello! My name is João Xavier, I have a degree in Digital Marketing and studying Information Systems through PUCPR.  <br>
+  🌎 Hello! My name is João Xavier, I have a degree in Digital Marketing and I am studying Information Systems through PUCPR.  <br>
   
 
 </p>
 <p align="left">
-  📚 Currently learning: <strong>Web APIs and Web Applications using C# .NET in a mentoring project realized by Montreal Informática.</strong> <br>
+  📚 Currently learning: <strong>Data Structures and Exploratory Data Analysis in Python.</strong> <br>
+  
+  
+  </p>
+<p align="left">
+  💼 Working at: <strong>Montreal Informática BH.</strong> <br>
   
   
 </p>
@@ -19,7 +24,7 @@
 
 <p align="left">
   
-  💼 Some of the tools I use: <strong>VSCode, Visual Studio, Figma, Trello, Git, Notion and Github.</strong>
+  🔧 Some of the tools I use: <strong>VSCode, Visual Studio, Figma, Trello, Git, Notion and Github.</strong>
   
 </p>
 
