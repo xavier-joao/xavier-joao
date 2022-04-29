@@ -17,14 +17,14 @@
 </p>
 <p align="left">
 
-  🌐 Experience in coding: <strong> HTML, CSS, JavaScript, Java, C# .NET and Python </strong>
+  🌐 Experience in coding: <strong> HTML, CSS, JavaScript, Java, C# .NET, Angular, Node.js and Python </strong>
   
   
 </p>
 
 <p align="left">
   
-  🔧 Some of the tools I use: <strong>VSCode, Visual Studio, Figma, Trello, Git, Notion and Github.</strong>
+  🔧 Some of the tools I use: <strong>VSCode, Visual Studio, Figma, Trello, Git, Notion, Fiddler, SoapUI, Postman and Github.</strong>
   
 </p>
 
