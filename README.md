@@ -6,7 +6,7 @@
 
 </p>
 <p align="left">
-  📚 Currently learning: <strong>Unit testing in C#.</strong> <br>
+  📚 Currently learning: <strong>Data Science with pandas.</strong> <br>
   
   
   </p>
