@@ -6,12 +6,12 @@
 
 </p>
 <p align="left">
-  📚 Currently learning: <strong>Data Science.</strong> <br>
+  📚 Currently learning: <strong>Data Structures in Data Science.</strong> <br>
   
   
   </p>
 <p align="left">
-  💼 Working at: <strong>Montreal Informática BH.</strong> <br>
+  💼 Working at: <strong>Comsentimento.</strong> <br>
   
   
 </p>
