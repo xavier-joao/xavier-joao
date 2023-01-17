@@ -1,7 +1,7 @@
 <img src="https://github.com/joao-xavi/joao-xavi/blob/2e8b9a39bd4484f473d6962e96b39e7f16559946/computador.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  🌎 Hello! My name is João Xavier, I have a degree in Digital Marketing and I am studying Information Systems through PUCPR.  <br>
+  🌎 Hello! My name is João Xavier, I have a degree in Digital Marketing and I am studying Information Systems through PUCPR. Passionate about music, social causes and multiplayer games, always searching for a new opportunity or challenge to develop my skills to make a positive social impact.<br>
   
 
 </p>
