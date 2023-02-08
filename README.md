@@ -17,7 +17,7 @@
 </p>
 <p align="left">
 
-  🌐 Experience in coding: <strong> HTML, CSS, JavaScript, Java, C# .NET, Angular, Node.js, PHP, C#, Bootstrap and Python. </strong>
+  🌐 Experience in coding: <strong> HTML, CSS, JavaScript, Java, C# .NET, Angular, Springboot, PHP, C#, Bootstrap and Python. </strong>
   
   
 </p>
