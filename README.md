@@ -33,7 +33,7 @@
 </p>
 
 <p align="left">
-  <a href="joaopx82@gmail.com" alt="Gmail">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=joaopx82@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=joaopx82@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/joão-xavier-9787741a2/" alt="Linkedin">
