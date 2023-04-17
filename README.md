@@ -6,7 +6,7 @@
 
 </p>
 <p align="left">
-  📚 Currently learning: <strong>Data Structures in Data Science.</strong> <br>
+  📚 Currently learning: <strong>Data Structures & Manipulation in Data Science.</strong> <br>
   
   
   </p>
