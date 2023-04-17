@@ -24,7 +24,7 @@
 
 <p align="left">
   
-  🔧 Some of the tools I use: <strong>VSCode, Visual Studio, Figma, Trello, Git, Notion, Swagger, Postman and Github.</strong>
+  🔧 Some of the tools I use: <strong>VSCode, Visual Studio, Figma, Trello, Git, Notion, Swagger, Colaboratory, Drive, Postman and Github.</strong>
   
 </p>
 
