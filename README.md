@@ -8,12 +8,6 @@
 <p align="left">
   📚 Currently learning: <strong>Data Structures & Manipulation in Data Science.</strong> <br>
   
-  
-  </p>
-<p align="left">
-  💼 Working at: <strong>Comsentimento.</strong> <br>
-  
-  
 </p>
 <p align="left">
 
