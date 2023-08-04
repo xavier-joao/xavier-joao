@@ -11,14 +11,14 @@
 </p>
 <p align="left">
 
-  🌐 Experience in coding: <strong> HTML, CSS, JavaScript, Java, C# .NET, Angular, Springboot, PHP, C#, Bootstrap and Python (scikit, pandas, numpy). </strong>
+  🌐 Experience in coding: <strong> HTML, CSS, R, JavaScript, Java, C# .NET, Angular, Springboot, PHP, C#, Bootstrap and Python (scikit, pandas, numpy). </strong>
   
   
 </p>
 
 <p align="left">
   
-  🔧 Some of the tools I use: <strong>VSCode, Visual Studio, Figma, Trello, Git, Notion, Swagger, Colaboratory, Drive, Postman and Github.</strong>
+  🔧 Some of the tools I use: <strong>VSCode, Visual Studio, SPSS, PyCharm, RStudio, Figma, Trello, Git, Notion, Swagger, Colaboratory, Drive, Postman and Github.</strong>
   
 </p>
 
