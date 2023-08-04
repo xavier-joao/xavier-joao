@@ -6,7 +6,7 @@
 
 </p>
 <p align="left">
-  📚 Currently learning: <strong>Data Structures & Manipulation in Data Science.</strong> <br>
+  📚 Currently learning: <strong>Hands-on Data Analysis Training Program by Kreativstorm</strong> <br>
   
 </p>
 <p align="left">
