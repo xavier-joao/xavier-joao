@@ -6,7 +6,7 @@
 
 </p>
 <p align="left">
-  📚 Currently learning: <strong>Hands-on Data Analysis Training Program by Kreativstorm</strong> <br>
+  📚 Currently learning: <strong>Heat Maps in Python & Weather Machine Learning</strong> <br>
   
 </p>
 <p align="left">
