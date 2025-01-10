@@ -1,6 +1,6 @@
 <img src="https://github.com/joao-xavi/joao-xavi/blob/2e8b9a39bd4484f473d6962e96b39e7f16559946/computador.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-<p align="left">🌎 Hi! I'm João Xavier, a Technologist in Digital Marketing graduate from UNINTER and a Bachelor in Information Systems from PUCPR. I'm passionate about music, social causes, and multiplayer games. I'm always seeking new opportunities and challenges to enhance my skills and create a positive social impact.<br>
+<p align="left">🌎 Hi! I'm João Xavier, a Technologist in Digital Marketing graduate from UNINTER and a Bachelor in Information Systems from PUCPR. I'm passionate about music, linguistics, and multiplayer games. I'm always seeking new opportunities and challenges to enhance my skills and create a positive social impact.<br>
 
 </p>
 
