@@ -6,7 +6,7 @@
 
 </p>
 <p align="left">
-  📚 Currently learning: <strong>Heat Maps in Python & Weather Machine Learning</strong> <br>
+  📚 Currently learning: <strong>Weather Machine Learning</strong> <br>
   
 </p>
 <p align="left">
